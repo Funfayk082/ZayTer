@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZayTer", "ZayTer.csproj", "{FC6AD548-950F-435F-BEB5-C77979E3F452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "..\ClassLibrary\User.csproj", "{FCDBABB8-CDD7-4ABF-9E6B-B9AD1E704379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6AD548-950F-435F-BEB5-C77979E3F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6AD548-950F-435F-BEB5-C77979E3F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6AD548-950F-435F-BEB5-C77979E3F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6AD548-950F-435F-BEB5-C77979E3F452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDBABB8-CDD7-4ABF-9E6B-B9AD1E704379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDBABB8-CDD7-4ABF-9E6B-B9AD1E704379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDBABB8-CDD7-4ABF-9E6B-B9AD1E704379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDBABB8-CDD7-4ABF-9E6B-B9AD1E704379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A63CC44-F6CC-42FA-9971-5608E18D0F41}
+	EndGlobalSection
+EndGlobal
